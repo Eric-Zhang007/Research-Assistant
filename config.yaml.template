@@ -1,0 +1,14 @@
+ARXIV_CATEGORIES:
+- cs.AI
+- cs.LG
+- cs.CV
+- cs.CL
+GEMINI_API_KEY: 
+GEMINI_MODEL: gemini-2.5-pro
+OPENAI_API_KEY: 
+OPENAI_BASE_URL: https://api.deepseek.com/v1
+OPENAI_MODEL: deepseek-chat
+PDF_CACHE_DIR: ./pdf_cache
+S2_API_KEY: ''
+ZOTERO_API_KEY: 
+ZOTERO_LIB_ID:

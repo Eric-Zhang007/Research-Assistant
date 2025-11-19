@@ -1,0 +1,4 @@
+pdf_cache/
+lib/
+__pycache__/
+config.yaml
